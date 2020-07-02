@@ -10,7 +10,7 @@ module.exports = {
         library: 'ReactContextMenu'
     },
     resolve: {
-    mainFields: ['main', 'module']
+        mainFields: ['main', 'module']
     },
     module: {
         rules: [
