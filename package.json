@@ -2,8 +2,8 @@
   "name": "react-contextmenu",
   "version": "2.14.0",
   "description": "Context Menu implemented in React",
-  "main": "modules/index.js",
-  "module": "es6/index.js",
+  "main": "es6/index.js",
+  "module": "modules/index.js",
   "typings": "src/index.d.ts",
   "keywords": [
     "react",
